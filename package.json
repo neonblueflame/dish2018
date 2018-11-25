@@ -1,0 +1,25 @@
+{
+  "name": "dish2018",
+  "version": "1.0.0",
+  "description": "Code for DISH2018, BookSwap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neonblueflame/dish2018.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neonblueflame/dish2018/issues"
+  },
+  "homepage": "https://github.com/neonblueflame/dish2018#readme",
+  "dependencies": {
+    "bootstrap": "4.1.3",
+    "solc": "0.5.0",
+    "web3": "1.0.0-beta.36"
+  }
+}
